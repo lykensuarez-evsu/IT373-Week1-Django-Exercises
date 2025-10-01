@@ -1,0 +1,8 @@
+Lyken J. Suarez
+BSIT - 3D (IT373, Assignment 2)
+
+Python version: 3.12
+Venv active: Yes
+Django version: 5.2
+Runserver working: Yes
+Git remote: https://github.com/lykensuarez-evsu/IT373-Week1-Django-Exercises.git

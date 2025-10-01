@@ -1,0 +1,3 @@
+Lyken J. Suarez BSIT 3D (IT373, Assignment 2)
+
+I have been following along the recordings of the class since the beginning. The only issue I have encountered is that I cannot ask questions. I had to look up in google on how to do stuff that wasn't following along in the recording. Some I had to redo cause I messed up in following the recoding but finished still. When you teach us, it's like your holding our hands along the way to understand and create. It made this seamless and it wasn't a problem to do the task.
